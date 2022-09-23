@@ -1,0 +1,7 @@
+C:\Users\liamm\Documents\SharpDevelop Projects\AdruinoGUI\AdruinoGUI\bin\Debug\AdruinoGUI.exe
+C:\Users\liamm\Documents\SharpDevelop Projects\AdruinoGUI\AdruinoGUI\bin\Debug\AdruinoGUI.pdb
+C:\Users\liamm\Documents\SharpDevelop Projects\AdruinoGUI\AdruinoGUI\obj\Debug\AdruinoGUI.csprojResolveAssemblyReference.cache
+C:\Users\liamm\Documents\SharpDevelop Projects\AdruinoGUI\AdruinoGUI\obj\Debug\AdruinoGUI.exe
+C:\Users\liamm\Documents\SharpDevelop Projects\AdruinoGUI\AdruinoGUI\obj\Debug\AdruinoGUI.pdb
+C:\Users\liamm\Documents\SharpDevelop Projects\AdruinoGUI\AdruinoGUI\obj\Debug\AdruinoGUI.MainForm.resources
+C:\Users\liamm\Documents\SharpDevelop Projects\AdruinoGUI\AdruinoGUI\obj\Debug\AdruinoGUI.csproj.GenerateResource.Cache
